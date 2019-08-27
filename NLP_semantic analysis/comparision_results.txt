@@ -1,0 +1,22 @@
+C:\Users\joshi\PycharmProjects\learn\venv\Scripts\python.exe C:/Users/joshi/PycharmProjects/learn/naive.py
+Loading data....
+
+Vectorizing data 
+
+Splitting into test and train sets 
+
+ ---------------------- NAIVE BAYES------------------------
+Accuracy for Naive Baye's Classifier Model is  0.8766233766233766
+
+----------------------- SVM --------------------------------
+Accuracy for SVC Classifier Model is  0.7666666666666667
+
+----------------------- RANDOM FOREST -----------------------
+Accuracy for Test Random Forest Classifier Model is 0.7255591630591631
+  
+---------------------------------
+The Scentiment from Naive Baye's is [1]
+The Scentiment from SVC is [1]
+The Scentiment from RF is [1]
+
+Process finished with exit code 0
